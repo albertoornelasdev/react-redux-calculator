@@ -1,0 +1,19 @@
+.operator {
+  background-color: #fda170;
+  color: black;
+}
+
+.extra {
+  background-color: #cdcdcd;
+  color: black;
+}
+
+.operator__down {
+  background-color: #eeeeee;
+  color: black;
+}
+
+.operator__equal {
+  background-color: #f88d6d;
+  color: black;
+}
